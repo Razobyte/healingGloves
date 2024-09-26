@@ -1,0 +1,9 @@
+.text-container {
+    clip-path: polygon(26% 0, 90% 2%, 85% 99%, 20% 99%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+  }
+  /* In your CSS file or style block */
+

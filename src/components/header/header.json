@@ -1,0 +1,121 @@
+
+
+{
+    "megaMenus": [
+      {
+        "name": "Speciality",
+        "url": "/",
+
+        "options": [
+          {
+            "label": "Proctology",
+            "url": "/speciality/proctology",
+            "subOptions": [
+              { "label": "Piles", "url": "/speciality/proctolgy/piles" },
+              { "label": "Fissures", "url": "/speciality/proctolgy/fissures" },
+              { "label": "Fistula", "url": "/speciality/proctolgy/fistula" },
+              { "label": "Pilonidal Sinus", "url": "/speciality/proctolgy/pilonidal" },
+    
+              { "label": "Abscess", "url": "/speciality/proctolgy/abscess" },
+              { "label": "warts", "url": "/speciality/proctolgy/warts" }
+            ]
+            
+          },
+          {
+            "label": "Urology",
+            "url": "/speciality/urology",
+            "subOptions": [
+              { "label": "Circumcision", "url": "/speciality/urology/circumcision" },
+              { "label": "Cystoscopy", "url": "/speciality/urology/cystoscopy" },
+              { "label": "Kidney stone", "url": "/speciality/urology/kidney-stone" },
+              { "label": "URS", "url": "/speciality/urology/urs" },
+              { "label": "RIRS", "url": "/speciality/urology/rirs" },
+              { "label": "Prostate", "url": "/speciality/urology/prostate" }
+            ]
+          },
+          
+          {
+            "label": "Laparoscopy/Robotics",
+            "url": "/speciality/advanced-laparoscopy-robotics",
+            "subOptions": [
+              { "label": "Gallstones", "url": "/speciality/advanced-laparoscopy-robotics/gallstones" },
+              { "label": "Inguinal hernia", "url": "/speciality/advanced-laparoscopy-robotics/inguinal-hernia" },
+              { "label": "Umbilical hernia", "url": "/speciality/advanced-laparoscopy-robotics/umbilical-hernia" },
+              { "label": "Incisional hernia", "url": "/speciality/advanced-laparoscopy-robotics/incisional-hernia" },
+              { "label": "Hiatus hernia", "url": "/speciality/advanced-laparoscopy-robotics/hiatus-hernia" },
+              { "label": "Appendix", "url": "/speciality/advanced-laparoscopy-robotics/appendix" }
+            ]
+          },
+          {
+            "label": "Weight Loss/ Bariatric",
+            "url": "/speciality/weight-loss",
+            "subOptions": [
+              { "label": "Non surgical", "url": "/speciality/weight-loss/non-surgical" },
+              { "label": "Endoscopic balloon", "url": "/speciality/weight-loss/endoscopicballon" },
+              { "label": "Allurion", "url": "/speciality/weight-loss/allurion" },
+              { "label": "Bariatric surgery", "url": "/speciality/weight-loss-bariatric/bariatric-surgery" }
+            ]
+          },
+         
+          {
+            "label": "Aesthetics & Maxillofacial",
+            "url": "/speciality/asthetics",
+            "subOptions": [
+              { "label": "Botox", "url": "/speciality/asthetics/botox" },
+              { "label": "Filler", "url": "/speciality/asthetics/filer" },
+              { "label": "RF Rejuvenation", "url": "/speciality/asthetics/rf-rejuvenation" },
+              { "label": "Facelift", "url": "/speciality/asthetics/facelift" },
+              { "label": "Hair Transplant", "url": "/speciality/asthetics/hairtransplant" },
+              { "label": "PRP Therapy", "url": "/speciality/asthetics/prp-therapy" },
+              { "label": "Orofacial", "url": "/speciality/asthetics/orofacial" }
+            ]
+          },
+          {
+            "label": "IVF/Fertility",
+            "url": "/speciality/ivf-fertility",
+            "subOptions": [
+              { "label": "Best infertility treatment", "url":"/speciality/ivf-fertility/best-infertility-treatment" },
+              {"label": "IVF & IUI","url":"/speciality/ivf-fertility/ivf-iui" },
+              { "label": "Hysteroscopy & laparoscopic treatment", "url":"/speciality/ivf-fertility/hysteroscopy-laparoscopic-treatment" },
+              { "label": "Genetic screening", "url": "/speciality/ivf-fertility/genetic-screening" },
+              { "label": "ICSI", "url": "/speciality/ivf-fertility/icsi" }
+            ]
+          },
+          
+         
+          {
+            "label": "Vascular",
+            "url": "/speciality/vascular",
+            "subOptions": [
+              { "label": "varicose vein by laser", "url":"/speciality/vascular/varicose-vein-by-laser" },
+              { "label": "varicose vein by sclerotherapy & embolizaton", "url": "/speciality/vascular/varicose-vein-sclerotherapy" },
+              { "label": "varicocele", "url": "/speciality/vascular/varicocele" },
+              { "label": "DVT", "url":"/speciality/vascular/dvt" },
+              { "label": "AV Fistula", "url": "/speciality/vascular/av-fistula" }
+            ]
+          },
+          {
+            "label": "Gynecologist & Obstetrics",
+            "url": "/speciality/obestric-gyno",
+            "subOptions": [
+              { "label": "Prenatal care", "url": "/speciality/obstetrics-gyno/prenatal-care" },
+              { "label": "Normal & high risk delivery", "url": "/speciality/obstetrics-gyno/normal-high-risk-delivery" },
+              { "label": "c-section/Lscs", "url": "/speciality/obstetrics-gyno/c-scetion-lscs" },
+              { "label": "Post delivery care", "url": "/speciality/obstetrics-gyno/post-delivery-care" },
+              { "label": "Complicated pregnancies", "url": "/speciality/obstetrics-gyno/complicated-pregnancies" },
+              { "label": "Laparoscopic hysterectomy", "url": "/speciality/obstetrics-gyno/laparoscopic-hysterectomy" },
+              { "label": "Ovarian cyst surgery", "url": "/speciality/obstetrics-gyno/ovarian-cyst-surgery" },
+              { "label": "Open hysterectomy", "url": "/speciality/obstetrics-gyno/open-hysterectomy" },
+              { "label": "Myoma surgery", "url": "/speciality/obstetrics-gyno/myoma-surgery" },
+              { "label": "PCOD treatment", "url": "/speciality/obstetrics-gyno/pcod-treatment" },
+              { "label": "Women hygiene & care", "url": "/speciality/obstetrics-gyno/women-hygiene-care" }
+            ]
+          }
+         
+        ]
+    
+      }
+      
+    ]
+  }
+  
